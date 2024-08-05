@@ -1,6 +1,6 @@
 HOME PAGE: 
 
-- Turning Vision Into Reality With Code And Design. 
+- Translate imagination Into Reality With Code And Design. 
 - As a skilled full-stack developer, I am dedicated to turning ideas into innovative web applications. 
 Explore my latest projects and articles, showcasing my expertise in React.js and web development.
 
@@ -52,7 +52,23 @@ Fall 2018 | Massachusetts Ave, Cambridge, MA.
 Assisted in teaching a course on computer programming, held office hours to help students with assignments, 
 and graded exams and assignments.
 
+Technical Support @ MyCointainer
+Jan 2021 - Present
+➣I started freelancing in December 2017. I built a lot of website application for clients from different parts of the world.
+➣They included people from the United Kingdom, United States, India, Nigeria, France etc. I built using HTML, CSS, Javascript, Wordpress, Shopify etc.
+➣I built more than 150+ websites with over 100 happy customers who left 5 stars rating and some of them a very good tip.
 
+Website Developer @ AETech
+Dec 2017 - Dec 2022
+➣I started freelancing in December 2017. I built a lot of website application for clients from different parts of the world.
+➣They included people from the United Kingdom, United States, India, Nigeria, France etc. I built using HTML, CSS, Javascript, Wordpress, Shopify etc.
+➣I built more than 150+ websites with over 100 happy customers who left 5 stars rating and some of them a very good tip.
+
+Website Developer @ Flairtech
+Dec 2017 - Dec 2022
+➣I started freelancing in December 2017. I built a lot of website application for clients from different parts of the world.
+➣They included people from the United Kingdom, United States, India, Nigeria, France etc. I built using HTML, CSS, Javascript, Wordpress, Shopify etc.
+➣I built more than 150+ websites with over 100 happy customers who left 5 stars rating and some of them a very good tip.
 --------------------------------------------------------------
 
 EDUCATION:
@@ -61,6 +77,10 @@ Bachelor Of Science In Computer Science
 2016-2020 | Massachusetts Institute Of Technology (MIT)
 Relevant courses included Data Structures and Algorithms, Computer Systems Engineering, and Artificial 
 Intelligence.
+
+Bachelor Of Science In Information and Communication Technology
+2015-2019 | University Of Education Winneba (UEW)
+Relevant courses included Data Structures and Algorithms, Computer Systems Engineering, and Javascript.
 
 Master Of Computer Science
 2020-2022 | Stanford University
